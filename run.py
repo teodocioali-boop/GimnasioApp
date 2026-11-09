@@ -1,3 +1,4 @@
+# Proyecto Final - Inteligencia Artificial y Reportes terminados
 from flask import Flask
 from gymapp.extensions import db, appbuilder
 from gymapp import models
